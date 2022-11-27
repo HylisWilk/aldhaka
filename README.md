@@ -12,7 +12,7 @@ I've hand picked 25 options for each, which generates 625 possible flower specie
 The genus choices are mostly just flowers that I like or thought might look pretty as botanical illustrations (lotuses, bromeliads, orchids, birds of paradise, etc.)
 The adjectives are just random ones that I saw in other flower species or random words I translated to latin on google translate, wondering what would happen.
 
-The possible genus words are: Nelumba, Magnolia, Strelitzia, Plumeria, Passiflora, Heliconia, Helianthus, Alstroemeria, Convallaria, Crocus, Cattleya, Calendula, Dahlia, DelphiniumIris, Jasminum, Malva, Gardenia, Petunia, Lilium, Lobelia, Lamprocapnos, Hydrangea, Guzmania, Leontopodium, Luzuriaga.
+The possible genus words are: Nelumba, Magnolia, Strelitzia, Plumeria, Passiflora, Heliconia, Helianthus, Alstroemeria, Convallaria, Crocus, Cattleya, Calendula, Dahlia, Delphinium, Iris, Jasminum, Malva, Gardenia, Petunia, Lilium, Lobelia, Lamprocapnos, Hydrangea, Guzmania, Leontopodium, Luzuriaga.
 
 The possible adjective words are: Rubra, Caerulea, Viridis, Viridiflora, Alba, Rosea, Aurea, Japonica, Amazonensis, Italicum, Americana, Sinensis, Germanica, Amakusaensis, Anatoliensis, Andalusiensis, Asturiensis, Bengalensis, Canariensis, Pulcherrima, Atrox, Diamondi, Purpurata, Terrificus, Darwinii
 
