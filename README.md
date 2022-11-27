@@ -1,4 +1,4 @@
-# aldhaka
+# The Botanical Codex of Aldhaka
 Nanogenmo entry for 2022
 
 # Description
