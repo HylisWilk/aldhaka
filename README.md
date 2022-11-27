@@ -72,7 +72,7 @@ As an example, this is what the output of Midjourney looked like:
 
 The images were all added together and cleaned. Ex.:
 
-![image](https://user-images.githubusercontent.com/88170094/204150745-3f9d727c-4d6b-4aec-ae82-3a0e03de11d6.png)
+![image](https://user-images.githubusercontent.com/88170094/204152251-10541132-a6ab-4e02-89fe-6d56e13ad11c.png)
 
 And then they were vectorized and passed onto FontForge to generate aldhaka.ttf, but that was quite a pain to do, very manual, and the process of vectorization lost a lot of the finer details of the curves. I wonder if there is a more automatized way to do it.
 Because I only generated images for english alphanumeric characters, I filter out everything else from the final generated pages. This mangles the descriptions a bit but not too much in general.
