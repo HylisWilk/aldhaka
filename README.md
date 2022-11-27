@@ -89,6 +89,16 @@ We basically just horizontally stack the two image arrays:
 
 And save it as a pdf with PIL.
 
+### Cover
+
+The cover was generated on Midjourney with the prompt
+
+```
+Manga cover, great medieval codex grimoire of magic flowers, persian art --ar 2:3 --test --creative
+```
+
+And a variation to make it 2 images.
+
 ## Todo
 
 - I'd still like to improve the page layout to something more interesting than just hstacking, but I might leave that for later.
