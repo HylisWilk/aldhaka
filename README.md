@@ -1,6 +1,8 @@
 # The Botanical Codex of Aldhaka
 Nanogenmo entry for 2022
 
+[Full book](https://drive.google.com/file/d/1ExB3heUTH2ha1RSWO2ZkoSbfla3t4xKD/view?usp=share_link).
+
 # Description
 ## Algorithm Breakdown
 ### Flower names
@@ -109,3 +111,9 @@ And a variation to make it 2 images.
 
 - I'd still like to improve the page layout to something more interesting than just hstacking, but I might leave that for later.
 - Trying to add a papyrus or old book texture to the text pages with SD or VQGAN+CLIP destroys the text. Maybe I can do that in the future with simpler generative art techniques.
+
+## Notes
+
+I did quite a bit of tinkering with the prompts and might've accidentally saved different checkpoints of image/text prompts, so if you see them mismatching in the uploaded files in the repo that's why.
+
+Also I don't know how to make SD 1.5 totally reproducible. Using seeds within SD seem to only work for that particular session. Maybe you have to invoke torch seeds  before calling the webui. Gotta debug that further in the future.
