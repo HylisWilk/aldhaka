@@ -46,6 +46,12 @@ Botanical Illustration of {flower_name} by Pierre François Turpin. Context:{gen
 ```
 Where flower_name and generated_description were the outputs generated in the previous steps. Pierrre François Turpin is the name of a botanist illustrator I found on Google.
 
+An important detail is that using this prompt alone sometimes generates images that include text, which I didn't want, and also very weird trypophobia-y looking results, most likely because the generated text has these detailed descriptions of dozens of small botanical structures. To try to guarantee less scary flowers, I included the following negative prompt as well:
+
+--negative_prompt "writing, signature, text, cropping, trypophobia"
+
+I think possibly Midjourney would generate slightly better results but I have no idea how to batch generate 625 images there.
+
 After this step we have all the flower images ready.
 
 ### Generating a computer font
